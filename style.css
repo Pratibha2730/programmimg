@@ -1,0 +1,57 @@
+
+body{
+	background-image: url("C:\Users\RAJESH\Downloads\Gyani\v7_1_webpage_background_by_maslight.jpg");
+}
+div.p01{
+	margin:0px; padding:1px; background-color: brown; text-align:left;
+}
+h1{
+	margin:20px; font-size:50px; text-align: center; color: white;
+	font-family: Times new roman;
+}
+img{
+	width:12%; height: 150px; margin:3px; float: left; 
+}
+ul{
+	list-style-type: none; 
+	margin:0px; padding:0px; 
+	background-color: yellow;
+	overflow: hidden;
+}
+li a {
+	float: left;
+	text-decoration: none;
+	padding: 14px 16px;
+}
+li a:hover{
+	background-color: darkgray;
+}
+li a:active{
+	background-color: green;
+}
+p.p03{
+	margin:0px;
+	padding:8px;
+	background-color: purple;
+	border: 1px solid red;
+	text-align: left;
+	width:20%;
+	heighgt: 50%;
+	border-left: 6px solid green;
+}
+p a{
+	color: white;
+}
+div.footer{
+	background-color: darkblue;
+	padding: 10px;
+	height: 20em;
+}
+h2.kv{
+	margin: 40px;
+	color: white;
+}
+p#mhrd{
+	color: white;
+	margin: 40px;
+}
